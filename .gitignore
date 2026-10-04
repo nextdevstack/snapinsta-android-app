@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Secrets & Keystores (DO NOT PUSH)
+*.jks
+*.keystore
+local.properties
