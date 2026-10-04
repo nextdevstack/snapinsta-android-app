@@ -15,7 +15,7 @@
 
 ## 🌐 Official Web Portal & Free Online Tool
 > Access the lightning-fast web downloader on any browser (PC, Mac, iPhone, Android):  
-> 👉 **[Visit https://thesnapinsta.com](https://thesnapinsta.com)** 👈
+> 👉 **[Visit https://thesnapinsta.com/en](https://thesnapinsta.com/en)** 👈
 
 ---
 
@@ -28,7 +28,7 @@ Whether you need to save inspiring Reels, preserve 24-hour Stories before they e
 * **Version:** `1.0.0`
 * **APK File Size:** `2.39 MB` (Ultra Lightweight)
 * **Minimum Android:** `Android 7.0 (API 24)` or higher
-* **Official Website:** **[https://thesnapinsta.com](https://thesnapinsta.com)**
+* **Official Website:** **[https://thesnapinsta.com/en](https://thesnapinsta.com/en)**
 
 ---
 
@@ -66,14 +66,14 @@ Whether you need to save inspiring Reels, preserve 24-hour Stories before they e
 
 ### Option 2: Online Web Tool (No App Needed)
 Prefer not to install an app? You can use the web version directly from any device:  
-👉 **[Open TheSnapInsta.com Online Downloader](https://thesnapinsta.com)**
+👉 **[Open TheSnapInsta.com Online Downloader](https://thesnapinsta.com/en)**
 
 ---
 
 ## 💡 How It Works
 
 1. Open Instagram and copy the link of any public Reel, Video, Story, or Post.
-2. Open **SnapInsta** (or visit **[https://thesnapinsta.com](https://thesnapinsta.com)**).
+2. Open **SnapInsta** (or visit **[https://thesnapinsta.com](https://thesnapinsta.com/en)**).
 3. The app will automatically detect or let you tap **"Paste"**.
 4. Tap **"Download Now"** — your media will be saved to your device gallery instantly!
 
@@ -82,7 +82,7 @@ Prefer not to install an app? You can use the web version directly from any devi
 ## 🔗 Online Tools & Services by TheSnapInsta
 
 Explore our suite of free online Instagram utility tools:
-* 🎬 **[Instagram Reels Downloader](https://thesnapinsta.com)** — Fast high-resolution MP4 downloads.
+* 🎬 **[Instagram Reels Downloader](https://thesnapinsta.com/en/instagram-reels-downloader))** — Fast high-resolution MP4 downloads.
 * 📖 **[Instagram Story Saver](https://thesnapinsta.com)** — Save stories and highlights anonymously.
 * 📷 **[Instagram Photo Downloader](https://thesnapinsta.com)** — High quality photo and carousel saver.
 * 🎧 **[Instagram Audio Downloader](https://thesnapinsta.com)** — Convert Instagram videos to MP3 audio.
