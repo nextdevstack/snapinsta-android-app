@@ -83,7 +83,7 @@ Prefer not to install an app? You can use the web version directly from any devi
 
 Explore our suite of free online Instagram utility tools:
 * 🎬 **[Instagram Reels Downloader](https://thesnapinsta.com/en/instagram-reels-downloader))** — Fast high-resolution MP4 downloads.
-* 📖 **[Instagram Story Saver](https://thesnapinsta.com)** — Save stories and highlights anonymously.
+* 📖 **[Instagram Story Saver](https://thesnapinsta.com/en/anonyig))** — Save stories and highlights anonymously.
 * 📷 **[Instagram Photo Downloader](https://thesnapinsta.com)** — High quality photo and carousel saver.
 * 🎧 **[Instagram Audio Downloader](https://thesnapinsta.com)** — Convert Instagram videos to MP3 audio.
 * 🔍 **[Instagram Profile & DP Viewer](https://thesnapinsta.com)** — View public profile pictures in full size.
